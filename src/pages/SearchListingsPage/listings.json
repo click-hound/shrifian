@@ -1,0 +1,2261 @@
+[
+  {
+    "_id": {
+      "$oid": "5a9868345356190aaee6597b"
+    },
+    "PropertyID": "18761618",
+    "LastUpdated": "Tue, 16 Jan 2018 04:27:19 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18761618",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18761618,19261,[1588075],[49762],[1404594],[268667]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18761618,19261,[1588075],[49762],[1404594],[268667]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18761618'\",500);}\r\n</script>]]>",
+      "TransactionType": "For sale",
+      "PublicRemarks":
+        "This well established furnishings/decor on consignment boutique treats all visitors to specialty items for your home, cottage, and office. Profitable and ideal for an onsite active owner or 1 full-time staff - create more opportunities with expanded hours of operation, styles of items or social media/events! Roomy and bright store; very active mall and location; inventory/name/fixtures/IT included - complete turnkey opportunity! Financials will be shared only with NDA after meeting with Seller. Landlord willing to set new lease for 5 years +options. Don't wait!  This one of a kind exclusive shop will not disappoint!! Please email or call Leena (613)-266-4267 or Leena@coldwellbanker.ca OR see the website details for further information https://www.snazzyseconds.com. PLEASE DO NOT APPROACH STAFF.  www.snazzyseconds.com (id:19261)",
+      "PropertyType": "Business",
+      "Price": "89000.00",
+      "ListingContractDate": "2017-10-17",
+      "Board": "76",
+      "ListingID": "1082442",
+      "Photo": [
+        {
+          "LastUpdated": "17/10/2017 11:48:35 PM",
+          "PhotoLastUpdated": "Wed, 18 Oct 2017 04:48:35 GMT",
+          "_id": {
+            "$oid": "5a9868345356190aaee65982"
+          }
+        },
+        {
+          "LastUpdated": "17/10/2017 11:48:35 PM",
+          "PhotoLastUpdated": "Wed, 18 Oct 2017 04:48:35 GMT",
+          "_id": {
+            "$oid": "5a9868345356190aaee65981"
+          }
+        }
+      ],
+      "ParkingSpaces": [],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "* ft X * ft",
+        "Acreage": "false",
+        "SizeTotalText": "* ft X * ft"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://www.snazzyseconds.com"
+      },
+      "Address": {
+        "Neighbourhood": "St Joseph Main",
+        "Country": "Canada",
+        "PostalCode": "K1C1E9",
+        "Province": "Ontario",
+        "City": "Ottawa",
+        "AddressLine1": "2405 ST JOSEPH BOULEVARD",
+        "StreetAddress": "2405 ST JOSEPH BOULEVARD"
+      },
+      "AgentDetails": [
+        {
+          "ID": "1588075",
+          "Name": "LEENA RAY",
+          "Position": "Salesperson",
+          "_id": {
+            "$oid": "5a9868345356190aaee6597c"
+          },
+          "Office": {
+            "ID": "49762",
+            "Name": "COLDWELL BANKER FIRST OTTAWA REALTY",
+            "Franchisor": "Coldwell Banker Affiliates of Canada",
+            "Websites": [],
+            "Phones": [
+              {
+                "Phone": "(613) 728-2664",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868345356190aaee65980"
+                }
+              },
+              {
+                "Phone": "(613) 728-0548",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868345356190aaee6597f"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "1749 WOODWARD DRIVE",
+              "AddressLine1": "1749 WOODWARD DRIVE",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K2C0P9"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(613) 266-4267",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868345356190aaee6597e"
+              }
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.firstottawarealty.com",
+              "ContactType": "Business",
+              "WebsiteType": "Website",
+              "_id": {
+                "$oid": "5a9868345356190aaee6597d"
+              }
+            }
+          ]
+        }
+      ],
+      "Building": {
+        "HalfBathTotal": "0",
+        "FireplacePresent": "False",
+        "BathroomTotal": "0"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5a9868315356190aaee65831"
+    },
+    "PropertyID": "18934330",
+    "LastUpdated": "Wed, 21 Feb 2018 04:28:54 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18934330",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18934330,19261,[1403120],[278366],[1403261],[161536]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18934330,19261,[1403120],[278366],[1403261],[161536]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18934330'\",500);}\r\n</script>]]>",
+      "ZoningDescription": "Residential",
+      "TransactionType": "For sale",
+      "RoadType": "Paved road",
+      "PublicRemarks":
+        "THE HOME YOU DESERVE   You'll love living in this quality 3 plus 1 bedroom bungalow that has been updated over the years with some unique and thoughtful touches.   Easy care hardwood floors encompass the entire main floor.  The open concept living room  / dining room has an over-sized sun filled front window with a great view of the front yard and covered front porch. These rooms are  tastefully complete, including the crown molding.  Just steps away is the recently renovated kitchen that features easy close drawers, ample counter-space and large pantry help make entertaining and daily family meals a true pleasure.   Enjoy cozy afternoons and evenings in the family room where there is a warming fireplace and sufficient space for the over-sized television, darts and entertaining. The 4th bedroom, 3 piece bath, laundry room and workshop round out the lower level. If you are in the market for a bungalow, close to all amenities including buses - call today! (id:19261)",
+      "PropertyType": "Single Family",
+      "Price": "399900.00",
+      "ListingContractDate": "2017-12-13",
+      "Features": "Private setting",
+      "CommunicationType": "Cable Internet access, Internet Access",
+      "AmmenitiesNearBy": "Public Transit",
+      "Board": "76",
+      "ListingID": "1087136",
+      "Photo": [
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65858"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65857"
+          }
+        },
+        {
+          "Description": "Exterior front (over sized driveway)",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65856"
+          }
+        },
+        {
+          "Description": "Covered front Porch",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65855"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65854"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65853"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65852"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65851"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65850"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6584f"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6584e"
+          }
+        },
+        {
+          "Description": "Master Bedroom",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6584d"
+          }
+        },
+        {
+          "Description":
+            "Bedroom with Murphy Wall Bed - being used as an office",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6584c"
+          }
+        },
+        {
+          "Description": "Bedroom on Lower Level with bathroom",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6584b"
+          }
+        },
+        {
+          "Description": "Lower level family room with gas fireplace",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6584a"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65849"
+          }
+        },
+        {
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65848"
+          }
+        },
+        {
+          "Description": "Backyard",
+          "LastUpdated": "24/01/2018 05:56:56 PM",
+          "PhotoLastUpdated": "Wed, 24 Jan 2018 22:56:56 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65847"
+          }
+        }
+      ],
+      "ParkingSpaces": [
+        {
+          "Name": "Oversize",
+          "_id": {
+            "$oid": "5a9868315356190aaee65846"
+          }
+        },
+        {
+          "Name": "Surfaced",
+          "_id": {
+            "$oid": "5a9868315356190aaee65845"
+          }
+        }
+      ],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "0.35",
+        "SizeDepth": "150 ft",
+        "Sewer": "Municipal sewage system",
+        "Amenities": "Public Transit",
+        "Acreage": "false",
+        "SizeFrontage": "100 ft",
+        "SizeTotalText": "0.35 ac"
+      },
+      "AlternateURL": {
+        "VideoLink": "http://www.53henrygoulburn.com"
+      },
+      "Address": {
+        "Neighbourhood": "Stittsville",
+        "Country": "Canada",
+        "PostalCode": "K2S1P6",
+        "Province": "Ontario",
+        "City": "Ottawa",
+        "AddressLine1": "53 HENRY GOULBURN WAY",
+        "StreetAddress": "53 HENRY GOULBURN WAY"
+      },
+      "AgentDetails": [
+        {
+          "ID": "1403120",
+          "Name": "WANDA CLARK",
+          "Position": "Broker",
+          "_id": {
+            "$oid": "5a9868315356190aaee6583d"
+          },
+          "Office": {
+            "ID": "278366",
+            "Name": "RE/MAX HALLMARK REALTY GROUP",
+            "Franchisor": "RE/MAX Ontario Atlantic Canada Inc",
+            "Websites": [
+              {
+                "Website": "http://www.hallmarkottawa.com",
+                "ContactType": "Business",
+                "WebsiteType": "Website",
+                "_id": {
+                  "$oid": "5a9868315356190aaee65842"
+                }
+              }
+            ],
+            "Phones": [
+              {
+                "Phone": "(613) 596-5353",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868315356190aaee65844"
+                }
+              },
+              {
+                "Phone": "(613) 596-4495",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868315356190aaee65843"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "2255 CARLING AVENUE, SUITE 101",
+              "AddressLine1": "2255 CARLING AVENUE, SUITE 101",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K2B7Z5"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(844) 847-5898",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868315356190aaee65841"
+              }
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.ClarkPremiereProperties.com",
+              "ContactType": "Business",
+              "WebsiteType": "Website",
+              "_id": {
+                "$oid": "5a9868315356190aaee65840"
+              }
+            },
+            {
+              "Website":
+                "http://www.facebook.com/pages/Wanda-Clark-BrokerRealtor/127884560603144?ref=ts&amp;fref=ts",
+              "ContactType": "Business",
+              "WebsiteType": "FaceBook",
+              "_id": {
+                "$oid": "5a9868315356190aaee6583f"
+              }
+            },
+            {
+              "Website": "http://www.linkedin.com/pub/wanda-clark/27/85a/568",
+              "ContactType": "Business",
+              "WebsiteType": "LinkedIn",
+              "_id": {
+                "$oid": "5a9868315356190aaee6583e"
+              }
+            }
+          ]
+        }
+      ],
+      "Building": {
+        "Rooms": [
+          {
+            "Type": "Great Room",
+            "Dimension": "21'6 x 17'5",
+            "_id": {
+              "$oid": "5a9868315356190aaee6583c"
+            }
+          },
+          {
+            "Type": "Utility room",
+            "Dimension": "14'3 x 12'9",
+            "_id": {
+              "$oid": "5a9868315356190aaee6583b"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "16'3 x 10'11",
+            "_id": {
+              "$oid": "5a9868315356190aaee6583a"
+            }
+          },
+          {
+            "Type": "3pc Bathroom",
+            "_id": {
+              "$oid": "5a9868315356190aaee65839"
+            }
+          },
+          {
+            "Type": "Workshop",
+            "Dimension": "10'7 x 11'4",
+            "_id": {
+              "$oid": "5a9868315356190aaee65838"
+            }
+          },
+          {
+            "Type": "Living room/Dining room",
+            "Dimension": "18'2 x 19'7",
+            "_id": {
+              "$oid": "5a9868315356190aaee65837"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "11'6 x 8'1",
+            "_id": {
+              "$oid": "5a9868315356190aaee65836"
+            }
+          },
+          {
+            "Type": "Bathroom",
+            "Dimension": "7'11 x 4'11",
+            "_id": {
+              "$oid": "5a9868315356190aaee65835"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "11'5 x 11'5",
+            "_id": {
+              "$oid": "5a9868315356190aaee65834"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "12'5 x 9'2",
+            "_id": {
+              "$oid": "5a9868315356190aaee65833"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "12'6 x 11'5",
+            "_id": {
+              "$oid": "5a9868315356190aaee65832"
+            }
+          }
+        ],
+        "UtilityWater": "Municipal water",
+        "Type": "House",
+        "StoriesTotal": "1",
+        "HeatingType": "Forced air",
+        "HeatingFuel": "Natural gas",
+        "HalfBathTotal": "0",
+        "FoundationType": "Block",
+        "FlooringType": "Wall-to-wall carpet, Hardwood",
+        "FireplaceTotal": "1",
+        "FireplacePresent": "True",
+        "ExteriorFinish": "Siding",
+        "CoolingType": "Central air conditioning",
+        "ConstructionStyleAttachment": "Detached",
+        "ConstructedDate": "1960",
+        "BasementType": "Full (Finished)",
+        "BasementDevelopment": "Finished",
+        "ArchitecturalStyle": "Bungalow",
+        "Appliances": "Microwave Range Hood Combo",
+        "BedroomsBelowGround": "1",
+        "BedroomsAboveGround": "3",
+        "BedroomsTotal": "4",
+        "BathroomTotal": "2"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5a9868315356190aaee65859"
+    },
+    "PropertyID": "19043774",
+    "LastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=19043774",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(19043774,19261,[2023162,2023163],[276093,276093],[1901406,1901406],[161536,161536]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(19043774,19261,[2023162,2023163],[276093,276093],[1901406,1901406],[161536,161536]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=19043774'\",500);}\r\n</script>]]>",
+      "ZoningDescription": "Residential",
+      "WaterFrontType": "Waterfront",
+      "ViewType": "River view",
+      "TransactionType": "For sale",
+      "RoadType": "Paved road",
+      "PublicRemarks":
+        "ELEGANT MASTERPIECE SERENELY LOCATED DIRECTLY BY THE OTTAWA RIVER, THIS PROPERTY WAS PLANNED WITH AN UNCOMPROMISING LEVEL OF QUALITY AND LUXURY. This splendid one acre lot with 283 feet of river front is fenced by professionally landscaped grounds with sprinkler system, natural fed pond and enhanced by a relaxing heated pool. The interior is equally magnificent. It reflects the meticulous care and attention to construction details using only the finest materials. The design of the kitchen deserves attention: numerous cabinets, granite counter tops, waste disposal, two sinks, top of the line appliances and wine fridge adjacent to a sunny eating area.  The large living room with fireplace is combined with the dining room which is of excellent size and will accommodate your numerous guests. Silk sheets are appropriate for the spacious master suite with private bathroom and well designed walk-in closet. A real gem! (square footage includes walk-out basement) (id:19261)",
+      "PropertyType": "Single Family",
+      "Price": "1495000.00",
+      "PoolType": "Inground pool",
+      "ListingContractDate": "2018-01-30",
+      "AmmenitiesNearBy": "Golf Nearby, Shopping, Water Nearby",
+      "Board": "76",
+      "ListingID": "1090779",
+      "Photo": [
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65890"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6588f"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6588e"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6588d"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6588c"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6588b"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6588a"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65889"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65888"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65887"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65886"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65885"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65884"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65883"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65882"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65881"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65880"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6587f"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6587e"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6587d"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6587c"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6587b"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee6587a"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65879"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65878"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65877"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65876"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65875"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:25 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:25 GMT",
+          "_id": {
+            "$oid": "5a9868315356190aaee65874"
+          }
+        }
+      ],
+      "ParkingSpaces": [
+        {
+          "Name": "Detached garage",
+          "_id": {
+            "$oid": "5a9868315356190aaee65873"
+          }
+        },
+        {
+          "Name": "Carport",
+          "_id": {
+            "$oid": "5a9868315356190aaee65872"
+          }
+        }
+      ],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "283.35 ft X 160.4 ft",
+        "SizeDepth": "160 ft ,5 in",
+        "Sewer": "Septic System",
+        "Amenities": "Golf Nearby, Shopping, Water Nearby",
+        "Acreage": "false",
+        "SizeFrontage": "283 ft ,4 in",
+        "SizeTotalText": "283.35 ft X 160.4 ft"
+      },
+      "Address": {
+        "Neighbourhood": "Carillon Gardens",
+        "Country": "Canada",
+        "PostalCode": "K6A2T8",
+        "Province": "Ontario",
+        "City": "Hawkesbury",
+        "AddressLine1": "81 CARILLON CRESCENT",
+        "StreetAddress": "81 CARILLON CRESCENT"
+      },
+      "AgentDetails": [
+        {
+          "ID": "2023162",
+          "Name": "NICOLE BOUCHARD",
+          "Position": "Salesperson",
+          "_id": {
+            "$oid": "5a9868315356190aaee6586d"
+          },
+          "Office": {
+            "ID": "276093",
+            "Name": "RE/MAX CORE REALTY INC.",
+            "Franchisor": "RE/MAX Ontario Atlantic Canada Inc",
+            "Websites": [],
+            "Phones": [
+              {
+                "Phone": "(613) 739-5959",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868315356190aaee65871"
+                }
+              },
+              {
+                "Phone": "(613) 739-5950",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868315356190aaee65870"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "485 INDUSTRIAL AVENUE",
+              "AddressLine1": "485 INDUSTRIAL AVENUE",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K1G0Z1"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(613) 677-0507",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868315356190aaee6586f"
+              }
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.nicolebouchard.ca",
+              "ContactType": "Business",
+              "WebsiteType": "Website",
+              "_id": {
+                "$oid": "5a9868315356190aaee6586e"
+              }
+            }
+          ]
+        },
+        {
+          "ID": "2023163",
+          "Name": "FRANCOIS PICHE",
+          "Position": "Broker",
+          "_id": {
+            "$oid": "5a9868315356190aaee65868"
+          },
+          "Office": {
+            "ID": "276093",
+            "Name": "RE/MAX CORE REALTY INC.",
+            "Franchisor": "RE/MAX Ontario Atlantic Canada Inc",
+            "Websites": [],
+            "Phones": [
+              {
+                "Phone": "(613) 739-5959",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868315356190aaee6586c"
+                }
+              },
+              {
+                "Phone": "(613) 739-5950",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868315356190aaee6586b"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "485 INDUSTRIAL AVENUE",
+              "AddressLine1": "485 INDUSTRIAL AVENUE",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K1G0Z1"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(613) 677-2100",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868315356190aaee6586a"
+              }
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.francoispiche.com",
+              "ContactType": "Business",
+              "WebsiteType": "Website",
+              "_id": {
+                "$oid": "5a9868315356190aaee65869"
+              }
+            }
+          ]
+        }
+      ],
+      "Building": {
+        "Rooms": [
+          {
+            "Type": "Storage",
+            "Dimension": "9'7'' x 38'10",
+            "_id": {
+              "$oid": "5a9868315356190aaee65867"
+            }
+          },
+          {
+            "Type": "Gym",
+            "Dimension": "15'4'' x 8'9''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65866"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "13'1'' x 13'5''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65865"
+            }
+          },
+          {
+            "Type": "Family room",
+            "Dimension": "18'9'' x 26'10''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65864"
+            }
+          },
+          {
+            "Type": "Den",
+            "Dimension": "11'10'' x 11'3''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65863"
+            }
+          },
+          {
+            "Type": "Bathroom",
+            "Dimension": "11'7 x 12'2''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65862"
+            }
+          },
+          {
+            "Type": "Living room",
+            "Dimension": "19'7'' x 22'4''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65861"
+            }
+          },
+          {
+            "Type": "Dining room",
+            "Dimension": "16'6'' x 13'10''",
+            "_id": {
+              "$oid": "5a9868315356190aaee65860"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "23'8'' x 12'",
+            "_id": {
+              "$oid": "5a9868315356190aaee6585f"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "13'1'' x 19'4''",
+            "_id": {
+              "$oid": "5a9868315356190aaee6585e"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "9'11'' x 14'",
+            "_id": {
+              "$oid": "5a9868315356190aaee6585d"
+            }
+          },
+          {
+            "Type": "Bathroom",
+            "Dimension": "10'8'' x 6'4''",
+            "_id": {
+              "$oid": "5a9868315356190aaee6585c"
+            }
+          },
+          {
+            "Type": "Foyer",
+            "Dimension": "12'1'' x 9'3''",
+            "_id": {
+              "$oid": "5a9868315356190aaee6585b"
+            }
+          },
+          {
+            "Type": "Laundry room",
+            "Dimension": "9'6'' x 5'",
+            "_id": {
+              "$oid": "5a9868315356190aaee6585a"
+            }
+          }
+        ],
+        "UtilityWater": "Drilled Well",
+        "Type": "House",
+        "StoriesTotal": "1",
+        "HeatingType": "Forced air, Hot water radiator heat",
+        "HeatingFuel": "Natural gas",
+        "HalfBathTotal": "0",
+        "FoundationType": "Poured Concrete",
+        "FlooringType": "Hardwood",
+        "FireplacePresent": "False",
+        "ExteriorFinish": "Stone, Wood",
+        "CoolingType": "Central air conditioning",
+        "ConstructionStyleAttachment": "Detached",
+        "ConstructedDate": "1961",
+        "BasementType": "Full (Finished)",
+        "BasementDevelopment": "Finished",
+        "ArchitecturalStyle": "Bungalow",
+        "Appliances": "Refrigerator, Dishwasher, Stove, Alarm System",
+        "BedroomsBelowGround": "2",
+        "BedroomsAboveGround": "1",
+        "BedroomsTotal": "3",
+        "BathroomTotal": "3"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5a9868325356190aaee65891"
+    },
+    "PropertyID": "18934328",
+    "LastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18934328",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18934328,19261,[1771116],[49863],[1520309],[86516]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18934328,19261,[1771116],[49863],[1520309],[86516]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18934328'\",500);}\r\n</script>]]>",
+      "ZoningDescription": "RESIDENTIAL",
+      "TransactionType": "For sale",
+      "Structure": "Deck",
+      "RoadType": "Paved road",
+      "PublicRemarks":
+        "Super Spacious Bungalow backing on to farm land! This 3+1 bedroom/2 full bath has lots of updating done for you. The Master is very large with a huge walk-in closet and private en-suite bathroom. The second bedroom was originally two rooms, so offers tons of extra space. Third bedroom is located on the back of the house. The lower level is nice and bright with large windows, laminate flooring and a 4th bedroom.  This hamlet is located 20 minutes from the High Tech sector, Shopping, Golf and easy access to the 417. New propane furnace-2015, Air Cond 2013,  windows & doors 2011, new septic 2011, renovated bathroom 2016, updated kitchen with Stainless appliances. (id:19261)",
+      "PropertyType": "Single Family",
+      "Price": "320000.00",
+      "ListingContractDate": "2017-12-12",
+      "Features": "Flat site",
+      "CommunityFeatures": "School Bus",
+      "AmmenitiesNearBy": "Golf Nearby, Recreation Nearby",
+      "Board": "76",
+      "ListingID": "1087184",
+      "Photo": [
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b7"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b6"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b5"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b4"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b3"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b2"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b1"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658b0"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658af"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ae"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ad"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ac"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ab"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658aa"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a9"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a8"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a7"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a6"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a5"
+          }
+        },
+        {
+          "LastUpdated": "13/12/2017 11:15:40 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:40 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a4"
+          }
+        }
+      ],
+      "ParkingSpaces": [
+        {
+          "Name": "Attached garage",
+          "_id": {
+            "$oid": "5a9868325356190aaee658a3"
+          }
+        }
+      ],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "103 ft X 150 ft",
+        "SizeDepth": "150 ft",
+        "Sewer": "Septic System",
+        "Amenities": "Golf Nearby, Recreation Nearby",
+        "Acreage": "false",
+        "SizeFrontage": "103 ft",
+        "SizeTotalText": "103 ft X 150 ft"
+      },
+      "Address": {
+        "Neighbourhood": "Woodlawn",
+        "Country": "Canada",
+        "PostalCode": "K0A3M0",
+        "Province": "Ontario",
+        "City": "Ottawa",
+        "AddressLine1": "1303 KINBURN SIDE ROAD",
+        "StreetAddress": "1303 KINBURN SIDE ROAD"
+      },
+      "AgentDetails": [
+        {
+          "ID": "1771116",
+          "Name": "DIANE RENNIE",
+          "Position": "Salesperson",
+          "_id": {
+            "$oid": "5a9868325356190aaee6589e"
+          },
+          "Office": {
+            "ID": "49863",
+            "Name": "ROYAL LEPAGE PERFORMANCE REALTY",
+            "Franchisor": "Royal LePage",
+            "Websites": [],
+            "Phones": [
+              {
+                "Phone": "(613) 830-3350",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658a2"
+                }
+              },
+              {
+                "Phone": "(888) 830-8757",
+                "ContactType": "Business",
+                "PhoneType": "Toll Free",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658a1"
+                }
+              },
+              {
+                "Phone": "(613) 830-0759",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658a0"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "#107-250 CENTRUM BLVD.",
+              "AddressLine1": "#107-250 CENTRUM BLVD.",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K1E3J1"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(613) 868-7767",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868325356190aaee6589f"
+              }
+            }
+          ],
+          "Websites": []
+        }
+      ],
+      "Building": {
+        "Rooms": [
+          {
+            "Type": "Family room",
+            "Dimension": "25'7\" x 18'6\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee6589d"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "21' x 15'10\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee6589c"
+            }
+          },
+          {
+            "Type": "Laundry room",
+            "_id": {
+              "$oid": "5a9868325356190aaee6589b"
+            }
+          },
+          {
+            "Type": "Living room",
+            "Dimension": "16'6\" x 12'2\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee6589a"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "13'6\" x 10'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65899"
+            }
+          },
+          {
+            "Type": "Dining room",
+            "Dimension": "10' x 8'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65898"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "17'3\" x 14'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65897"
+            }
+          },
+          {
+            "Type": "Other",
+            "Dimension": "12' x 9'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65896"
+            }
+          },
+          {
+            "Type": "3pc Ensuite bath",
+            "Dimension": "9' x 4'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65895"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "22' x 10'5\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee65894"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "12' x 10'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65893"
+            }
+          },
+          {
+            "Type": "Bathroom",
+            "Dimension": "10' x 5'",
+            "_id": {
+              "$oid": "5a9868325356190aaee65892"
+            }
+          }
+        ],
+        "UtilityWater": "Drilled Well",
+        "Type": "House",
+        "StoriesTotal": "1",
+        "HeatingType": "Forced air",
+        "HeatingFuel": "Propane",
+        "HalfBathTotal": "0",
+        "FoundationType": "Poured Concrete",
+        "FlooringType": "Wall-to-wall carpet, Mixed Flooring",
+        "FireplaceTotal": "1",
+        "FireplacePresent": "True",
+        "ExteriorFinish": "Stone, Brick",
+        "CoolingType": "Central air conditioning",
+        "ConstructionStyleAttachment": "Detached",
+        "ConstructedDate": "1973",
+        "BasementType": "Full (Finished)",
+        "BasementDevelopment": "Finished",
+        "ArchitecturalStyle": "Bungalow",
+        "Appliances": "Refrigerator, Stove",
+        "BedroomsBelowGround": "1",
+        "BedroomsAboveGround": "3",
+        "BedroomsTotal": "4",
+        "BathroomTotal": "2"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5a9868325356190aaee658b8"
+    },
+    "PropertyID": "18934322",
+    "LastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18934322",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18934322,19261,[1404251],[49772],[1404298],[268667]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(18934322,19261,[1404251],[49772],[1404298],[268667]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=18934322'\",500);}\r\n</script>]]>",
+      "ZoningDescription": "R4",
+      "TransactionType": "For sale",
+      "PublicRemarks":
+        "UPGRADED DUPLEX WITH DETACHED GARAGE AND PRIVATE FENCED YARD,...GREAT LOCATION...MANY UPGRADES..ROOF 2012,WINDOWS/DOORS 2015/16,LAMINATED FLOORS 2014,DRIVEWAY 2013,2 WASHER/DRYER 2015,UPPER NEW PAINT THROUGHOUT AND NEW FRIDGE 2015.PRIVATE BACKYARD.LOWER APT RENTED $800/MO. AND UPPER RENTED AT $1100/MO..HAS GAS FIREPLACE ...ZONING ALLOWS HOME BASED BUSINESS.UNITS HAVE OWN SEPARATE ENTRANCES,SEPARATE HYDRO METERS(TENANTS PAYS THEIR OWN HYDRO..HEAT/GAS IS PAID BY LANDLORD)  AND SHARED LAUNDRY ROOM(each tenants has a newer washer and dryer) (id:19261)",
+      "PropertyType": "Single Family",
+      "Price": "459000.00",
+      "ListingContractDate": "2017-12-12",
+      "Features": "Private setting, Balcony",
+      "CommunityFeatures": "Family Oriented",
+      "AmmenitiesNearBy": "Public Transit, Recreation Nearby, Shopping",
+      "Board": "76",
+      "ListingID": "1087222",
+      "Photo": [
+        {
+          "Description": "Exterior Front.",
+          "LastUpdated": "13/12/2017 11:15:41 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658d1"
+          }
+        },
+        {
+          "Description": "Exterior Front.",
+          "LastUpdated": "13/12/2017 11:15:41 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658d0"
+          }
+        },
+        {
+          "Description": "Exterior Back.",
+          "LastUpdated": "13/12/2017 11:15:41 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658cf"
+          }
+        },
+        {
+          "Description": "Exterior Back.",
+          "LastUpdated": "13/12/2017 11:15:41 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ce"
+          }
+        },
+        {
+          "Description": "Exterior Back.",
+          "LastUpdated": "13/12/2017 11:15:41 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658cd"
+          }
+        },
+        {
+          "Description": "Exterior Front.",
+          "LastUpdated": "13/12/2017 11:15:41 PM",
+          "PhotoLastUpdated": "Thu, 14 Dec 2017 04:15:41 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658cc"
+          }
+        }
+      ],
+      "ParkingSpaces": [
+        {
+          "Name": "Detached garage",
+          "_id": {
+            "$oid": "5a9868325356190aaee658cb"
+          }
+        },
+        {
+          "Name": "Surfaced",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ca"
+          }
+        }
+      ],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "50 ft X 96.5 ft",
+        "SizeDepth": "96 ft ,6 in",
+        "Sewer": "Municipal sewage system",
+        "Amenities": "Public Transit, Recreation Nearby, Shopping",
+        "Acreage": "false",
+        "SizeFrontage": "50 ft",
+        "SizeTotalText": "50 ft X 96.5 ft"
+      },
+      "Address": {
+        "Neighbourhood": "VANIER/GRANVILLE",
+        "Country": "Canada",
+        "PostalCode": "K1L6W4",
+        "Province": "Ontario",
+        "City": "Ottawa",
+        "AddressLine1": "206 ALFRED STREET",
+        "StreetAddress": "206 ALFRED STREET"
+      },
+      "AgentDetails": [
+        {
+          "ID": "1404251",
+          "Name": "PIERRE ROCHETTE",
+          "Position": "Salesperson",
+          "_id": {
+            "$oid": "5a9868325356190aaee658c4"
+          },
+          "Office": {
+            "ID": "49772",
+            "Name": "COLDWELL BANKER SARAZEN REALTY",
+            "Franchisor": "Coldwell Banker Affiliates of Canada",
+            "Websites": [
+              {
+                "Website": "http://www.coldwellbankersarazen.com",
+                "ContactType": "Business",
+                "WebsiteType": "Website",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658c6"
+                }
+              }
+            ],
+            "Phones": [
+              {
+                "Phone": "(613) 288-1999",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658c9"
+                }
+              },
+              {
+                "Phone": "(866) 288-1999",
+                "ContactType": "Business",
+                "PhoneType": "Toll Free",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658c8"
+                }
+              },
+              {
+                "Phone": "(613) 288-1555",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658c7"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "2544 BANK STREET",
+              "AddressLine1": "2544 BANK STREET",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K1T1M9"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(613) 276-5008",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868325356190aaee658c5"
+              }
+            }
+          ],
+          "Websites": []
+        }
+      ],
+      "Building": {
+        "Rooms": [
+          {
+            "Type": "Living room",
+            "Dimension": "15'1\" x 10'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658c3"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "10'9\" x 10'7\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658c2"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "11'8\" x 8'7\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658c1"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "11' x 9'1\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658c0"
+            }
+          },
+          {
+            "Type": "Laundry room",
+            "_id": {
+              "$oid": "5a9868325356190aaee658bf"
+            }
+          },
+          {
+            "Type": "Living room",
+            "Dimension": "19'3\" x 11'2\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658be"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "10'9\" x 9'2\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658bd"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "15' x 13'7\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658bc"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "10'6\" x 11'8\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658bb"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "11' x 8'9\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658ba"
+            }
+          },
+          {
+            "Type": "4pc Bathroom",
+            "Dimension": "10'.00\" x 10'.00\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658b9"
+            }
+          }
+        ],
+        "UtilityWater": "Municipal water",
+        "Type": "House",
+        "HeatingType": "Forced air",
+        "HeatingFuel": "Natural gas",
+        "HalfBathTotal": "0",
+        "FoundationType": "Block",
+        "FlooringType": "Laminate, Tile",
+        "FireProtection": "Smoke Detectors",
+        "FireplaceTotal": "1",
+        "FireplacePresent": "True",
+        "ExteriorFinish": "Brick, Siding, Vinyl",
+        "CoolingType": "None",
+        "ConstructionStyleAttachment": "Up and down",
+        "ConstructionMaterial": "Wood frame",
+        "ConstructedDate": "1960",
+        "BasementType": "Full (Finished)",
+        "BasementDevelopment": "Finished",
+        "Appliances": "Refrigerator, Stove, Washer",
+        "BedroomsBelowGround": "2",
+        "BedroomsAboveGround": "3",
+        "BedroomsTotal": "5",
+        "BathroomTotal": "2"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5a9868325356190aaee658d2"
+    },
+    "PropertyID": "19043767",
+    "LastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=19043767",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(19043767,19261,[1931126],[277627],[1931126],[268709]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(19043767,19261,[1931126],[277627],[1931126],[268709]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=19043767'\",500);}\r\n</script>]]>",
+      "ZoningDescription": "Residential",
+      "TransactionType": "For sale",
+      "Structure": "Deck, Patio(s)",
+      "PublicRemarks":
+        "A stunning Minto built house in a quite residential, family oriented area in orleans, 3 bedroom house with a single car garage open concept living and dining room with rich hardwood in the main floor A large eat in kitchen with a custom cenrte island that opens to a cozy spacious bright family room The hardwood staires will lead you up to the second level with 3 generous sized bedrooms. Laminate floor finished entertainment rec. room (id:19261)",
+      "PropertyType": "Single Family",
+      "Price": "420000.00",
+      "ListingContractDate": "2018-01-31",
+      "AmmenitiesNearBy": "Public Transit, Recreation Nearby",
+      "Board": "76",
+      "ListingID": "1090814",
+      "Photo": [
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f7"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f6"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f5"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f4"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f3"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f2"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f1"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658f0"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ef"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ee"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ed"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ec"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658eb"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658ea"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e9"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e8"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e7"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e6"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e5"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e4"
+          }
+        }
+      ],
+      "ParkingSpaces": [
+        {
+          "Name": "Attached garage",
+          "_id": {
+            "$oid": "5a9868325356190aaee658e3"
+          }
+        }
+      ],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "38.06 ft X 86.94 ft",
+        "SizeDepth": "86 ft ,11 in",
+        "Sewer": "Municipal sewage system",
+        "Amenities": "Public Transit, Recreation Nearby",
+        "Acreage": "false",
+        "SizeFrontage": "38 ft ,1 in",
+        "SizeTotalText": "38.06 ft X 86.94 ft"
+      },
+      "Address": {
+        "Neighbourhood": "Avalon, Nottingate, Springridg",
+        "Country": "Canada",
+        "PostalCode": "K4A0A3",
+        "Province": "Ontario",
+        "City": "Ottawa",
+        "AddressLine1": "109 WORTHAM WAY",
+        "StreetAddress": "109 WORTHAM WAY"
+      },
+      "AgentDetails": [
+        {
+          "ID": "1931126",
+          "Name": "RANDALL WEESE",
+          "Position": "Broker of record",
+          "_id": {
+            "$oid": "5a9868325356190aaee658de"
+          },
+          "Office": {
+            "ID": "277627",
+            "Name": "COMFREE COMMONSENSE NETWORK",
+            "Franchisor": "Independent",
+            "Websites": [],
+            "Phones": [
+              {
+                "Phone": "(866) 336-9637",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658e2"
+                }
+              },
+              {
+                "Phone": "(866) 840-3848",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868325356190aaee658e1"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "102-430 MCNEILLY RD,STONEY CRK",
+              "AddressLine1": "102-430 MCNEILLY RD,STONEY CRK",
+              "City": "HAMILTON",
+              "Province": "ON",
+              "PostalCode": "L8E5E3"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(866) 336-9637",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868325356190aaee658e0"
+              }
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.comfree.com",
+              "ContactType": "Business",
+              "WebsiteType": "Website",
+              "_id": {
+                "$oid": "5a9868325356190aaee658df"
+              }
+            }
+          ]
+        }
+      ],
+      "Building": {
+        "Rooms": [
+          {
+            "Type": "3pc Bathroom",
+            "_id": {
+              "$oid": "5a9868325356190aaee658dd"
+            }
+          },
+          {
+            "Type": "3pc Ensuite bath",
+            "_id": {
+              "$oid": "5a9868325356190aaee658dc"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "14'10\" x 11'8\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658db"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "11'11\" x 10'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658da"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "10'2\" x 10'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d9"
+            }
+          },
+          {
+            "Type": "Recreation room",
+            "Dimension": "11'4\" x 23'7\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d8"
+            }
+          },
+          {
+            "Type": "2pc Bathroom",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d7"
+            }
+          },
+          {
+            "Type": "Dining room",
+            "Dimension": "14'6\" x 9'8\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d6"
+            }
+          },
+          {
+            "Type": "Family room",
+            "Dimension": "15' x 12'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d5"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "12' x 10'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d4"
+            }
+          },
+          {
+            "Type": "Living room",
+            "Dimension": "12'6\" x 12'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658d3"
+            }
+          }
+        ],
+        "UtilityWater": "Municipal water",
+        "Type": "House",
+        "StoriesTotal": "2",
+        "HeatingType": "Forced air",
+        "HeatingFuel": "Natural gas",
+        "HalfBathTotal": "1",
+        "FoundationType": "Poured Concrete",
+        "FlooringType": "Hardwood, Laminate, Tile",
+        "FireplaceTotal": "1",
+        "FireplacePresent": "True",
+        "ExteriorFinish": "Brick, Vinyl",
+        "CoolingType": "Central air conditioning",
+        "ConstructionStyleAttachment": "Detached",
+        "ConstructedDate": "2007",
+        "BasementType": "Full (Partially finished)",
+        "BasementDevelopment": "Partially finished",
+        "BedroomsBelowGround": "0",
+        "BedroomsAboveGround": "3",
+        "BedroomsTotal": "3",
+        "BathroomTotal": "3"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5a9868325356190aaee658f8"
+    },
+    "PropertyID": "19043768",
+    "LastUpdated": "Fri, 02 Feb 2018 04:28:36 GMT",
+    "PropertyDetails": {
+      "MoreInformationLink":
+        "https://www.realtor.ca/PropertyDetails.aspx?PropertyId=19043768",
+      "AnalyticsView":
+        "<![CDATA[<script src='https://analytics.crea.ca/crearl.js' type='text/javascript'></script>\r\n<script type='text/javascript'>\r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(19043768,19261,[1404545],[276093],[1901406],[161536]);\r\nevent.set('event', 'type', 'view');\r\nevent.record();\r\n</script>]]>",
+      "AnalyticsClick":
+        "<![CDATA[<script type='text/javascript'>\r\n function redirect() { \r\nvar event = new RlEvent('crealocation');\r\nevent.viewedProperty(19043768,19261,[1404545],[276093],[1901406],[161536]);\r\nevent.set('event', 'type', 'click');\r\nevent.record();\r\nsetTimeout(\"window.location = 'https://www.realtor.ca/PropertyDetails.aspx?PropertyId=19043768'\",500);}\r\n</script>]]>",
+      "ZoningDescription": "RESIDENTIAL",
+      "TransactionType": "For sale",
+      "PublicRemarks":
+        "This charming, renovated 2 bedroom bungalow sits on a 74 x146 deep lot! Some of the updates include: new roof, windows and doors, bathroom redone, updated kitchen with granite countertops. Gas furnace, central air and owned gas hot water tank, carport and single detached garage. Look no further for great value. You will find it here in this single family home on a premium lot and close to all amenities! (id:19261)",
+      "PropertyType": "Single Family",
+      "Price": "369900.00",
+      "ListingContractDate": "2018-01-31",
+      "Board": "76",
+      "ListingID": "1090813",
+      "Photo": [
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee6590b"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee6590a"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee65909"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee65908"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee65907"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee65906"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee65905"
+          }
+        },
+        {
+          "LastUpdated": "31/01/2018 11:29:26 PM",
+          "PhotoLastUpdated": "Thu, 01 Feb 2018 04:29:26 GMT",
+          "_id": {
+            "$oid": "5a9868325356190aaee65904"
+          }
+        }
+      ],
+      "ParkingSpaces": [
+        {
+          "Name": "Detached garage",
+          "_id": {
+            "$oid": "5a9868325356190aaee65903"
+          }
+        },
+        {
+          "Name": "Carport",
+          "_id": {
+            "$oid": "5a9868325356190aaee65902"
+          }
+        }
+      ],
+      "OpenHouse": [],
+      "Land": {
+        "SizeIrregular": "74.18 ft X 146.27 ft",
+        "SizeDepth": "146 ft ,3 in",
+        "Sewer": "Municipal sewage system",
+        "Acreage": "false",
+        "SizeFrontage": "74 ft ,2 in",
+        "SizeTotalText": "74.18 ft X 146.27 ft"
+      },
+      "Address": {
+        "Neighbourhood": "Chateneauf",
+        "Country": "Canada",
+        "PostalCode": "K1C1M5",
+        "Province": "Ontario",
+        "City": "Orleans",
+        "AddressLine1": "1770 BELCOURT BOULEVARD",
+        "StreetAddress": "1770 BELCOURT BOULEVARD"
+      },
+      "AgentDetails": [
+        {
+          "ID": "1404545",
+          "Name": "RANDY VANDOMMELEN",
+          "Position": "Salesperson",
+          "_id": {
+            "$oid": "5a9868325356190aaee658fd"
+          },
+          "Office": {
+            "ID": "276093",
+            "Name": "RE/MAX CORE REALTY INC.",
+            "Franchisor": "RE/MAX Ontario Atlantic Canada Inc",
+            "Websites": [],
+            "Phones": [
+              {
+                "Phone": "(613) 739-5959",
+                "ContactType": "Business",
+                "PhoneType": "Telephone",
+                "_id": {
+                  "$oid": "5a9868325356190aaee65901"
+                }
+              },
+              {
+                "Phone": "(613) 739-5950",
+                "ContactType": "Business",
+                "PhoneType": "Fax",
+                "_id": {
+                  "$oid": "5a9868325356190aaee65900"
+                }
+              }
+            ],
+            "Address": {
+              "StreetAddress": "485 INDUSTRIAL AVENUE",
+              "AddressLine1": "485 INDUSTRIAL AVENUE",
+              "City": "OTTAWA",
+              "Province": "ON",
+              "PostalCode": "K1G0Z1"
+            }
+          },
+          "Phones": [
+            {
+              "Phone": "(613) 220-9196",
+              "ContactType": "Business",
+              "PhoneType": "Telephone",
+              "_id": {
+                "$oid": "5a9868325356190aaee658ff"
+              }
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.ottawahomesforsale.com",
+              "ContactType": "Business",
+              "WebsiteType": "Website",
+              "_id": {
+                "$oid": "5a9868325356190aaee658fe"
+              }
+            }
+          ]
+        }
+      ],
+      "Building": {
+        "Rooms": [
+          {
+            "Type": "Living room/Dining room",
+            "Dimension": "16' x 12'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658fc"
+            }
+          },
+          {
+            "Type": "Kitchen",
+            "Dimension": "17' x 16'",
+            "_id": {
+              "$oid": "5a9868325356190aaee658fb"
+            }
+          },
+          {
+            "Type": "Master bedroom",
+            "Dimension": "12'5\" x 12'1\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658fa"
+            }
+          },
+          {
+            "Type": "Bedroom",
+            "Dimension": "12' x 8'6\"",
+            "_id": {
+              "$oid": "5a9868325356190aaee658f9"
+            }
+          }
+        ],
+        "UtilityWater": "Municipal water",
+        "Type": "House",
+        "StoriesTotal": "1",
+        "HeatingType": "Forced air",
+        "HeatingFuel": "Natural gas",
+        "HalfBathTotal": "0",
+        "FoundationType": "Block",
+        "FlooringType": "Hardwood",
+        "FireplacePresent": "False",
+        "ExteriorFinish": "Siding",
+        "CoolingType": "Central air conditioning",
+        "ConstructionStyleAttachment": "Detached",
+        "ConstructedDate": "1960",
+        "BasementType": "Full (Unfinished)",
+        "BasementDevelopment": "Unfinished",
+        "ArchitecturalStyle": "Bungalow",
+        "BedroomsBelowGround": "0",
+        "BedroomsAboveGround": "2",
+        "BedroomsTotal": "2",
+        "BathroomTotal": "1"
+      }
+    },
+    "__v": 0
+  }
+]

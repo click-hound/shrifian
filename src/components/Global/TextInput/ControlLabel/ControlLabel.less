@@ -1,0 +1,17 @@
+@import "../../../../css/Export.less";
+.Control-Label {
+    .Control-Label-Placeholder {
+        position: absolute;
+        color: @textFieldPlaceholderTextColor;
+        font-weight: normal;
+        font-size: 14px;
+        left: -250px;
+        top: 0px;
+        transition: all .5s ease-in-out;
+        white-space: nowrap;
+        z-index: 2;
+        &.active {
+            left: 5px;
+        }
+    }
+}

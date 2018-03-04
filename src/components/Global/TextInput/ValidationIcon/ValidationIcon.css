@@ -1,0 +1,143 @@
+.col {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.paper {
+  border: solid 1px #DDDDDD;
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+}
+.shadow {
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
+.Validation-Icon-Wrapper {
+  pointer-events: none;
+  position: absolute;
+  height: 40px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  right: 0px;
+  width: 100%;
+  background-color: #EEEEEE;
+  border-radius: 5px;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Background {
+  pointer-events: none;
+  position: absolute;
+  height: 40px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  right: 0px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  transition: all .5s;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Background.success {
+  border: 1px solid rgba(0, 128, 0, 0.3);
+  background-color: rgba(0, 128, 0, 0.1);
+}
+.Validation-Icon-Wrapper .Validation-Icon-Background.error {
+  border: 1px solid rgba(255, 0, 0, 0.3);
+  background-color: rgba(255, 0, 0, 0.1);
+}
+.Validation-Icon-Wrapper .Validation-Icon-Background.plain {
+  border: 1px solid #a2a2a2;
+  background-color: #EEEEEE;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Background.forcePlain {
+  border: 1px solid #a2a2a2;
+  background-color: #EEEEEE;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Spinner {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  width: 16px;
+  height: 16px;
+  color: #4d4d4d;
+  opacity: 0;
+  transform: translateY(-50%);
+  transition: all .5s;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Spinner .Spinner-Wrapper {
+  height: 100%;
+  width: 100%;
+  animation: spin infinite 2s linear !important;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Spinner.active {
+  opacity: 1;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Success {
+  position: absolute;
+  right: 0px;
+  margin: 0px 10px;
+  width: 16px;
+  height: 16px;
+  color: green;
+  opacity: 0;
+  transition: all .5s;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Success.active {
+  opacity: 1;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Success.show {
+  opacity: 1 !important;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Success.hide {
+  opacity: 0 !important;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Error {
+  position: absolute;
+  right: 0px;
+  margin: 0px 10px;
+  width: 16px;
+  height: 16px;
+  color: red;
+  opacity: 0;
+  transition: all .5s;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Error.active {
+  opacity: 1;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Error.show {
+  opacity: 1 !important;
+}
+.Validation-Icon-Wrapper .Validation-Icon-Error.hide {
+  opacity: 0 !important;
+}

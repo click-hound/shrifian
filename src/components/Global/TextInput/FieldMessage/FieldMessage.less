@@ -1,0 +1,54 @@
+@import "../../../../css/Export.less";
+.Field-Message-Wrapper {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    .Field-Message-Error-Message-Wrapper,
+    .Field-Message-Success-Message-Wrapper {
+        position: absolute;
+        bottom: 6px;
+        left: 5px;
+        transition: all .5s;
+        opacity: 0;
+        &.active {
+            opacity: 1;
+        }
+    }
+    .Field-Message-Helper-Text-Wrapper {
+        position: absolute;
+        bottom: 6px;
+        left: 5px;
+        opacity: 1;
+    }
+    .Message-Wrapper {
+        transition: all .5s;
+        opacity: 0;
+        &.active {
+            opacity: 1;
+        }
+    }
+    .Error-Wrapper {
+        transition: all .5s;
+        opacity: 0;
+        &.active {
+            opacity: 1;
+        }
+        .Field-Message-Error-Message-Wrapper {
+            p {
+                color: red;
+            }
+        }
+    }
+    .Success-Wrapper {
+        transition: all .5s;
+        opacity: 0;
+        &.active {
+            opacity: 1;
+        }
+        .Field-Message-Success-Message-Wrapper {
+            p {
+                color: green;
+            }
+        }
+    }
+}

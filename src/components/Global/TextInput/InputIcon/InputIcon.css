@@ -1,0 +1,64 @@
+.col {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.paper {
+  border: solid 1px #DDDDDD;
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+}
+.shadow {
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+.Input-Icon-Wrapper {
+  pointer-events: none;
+  width: 450px;
+  height: 40px;
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.Input-Icon-Wrapper .Input-Icon-Container {
+  position: absolute;
+  color: #8C8C8C;
+  font-weight: 500;
+  font-size: 16px;
+  left: 0px;
+  transform: translateY(-50%);
+  top: 50%;
+  transition: all 0.5s ease-in-out;
+  line-height: 0px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.Input-Icon-Wrapper .Input-Icon-Container.active {
+  left: -450px;
+}
+.Input-Icon-Wrapper .Input-Icon-Container #Icon {
+  margin: 0px 10px;
+}

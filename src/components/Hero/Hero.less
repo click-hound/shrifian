@@ -1,0 +1,91 @@
+@import "../../css/Export.less";
+.Hero-Wrapper {
+    overflow-x: hidden;
+    position: relative;
+    height: 500px;
+    width: 100%;
+    .Hero-After,
+    .Hero-Before {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 100%;
+        width: 100vw;
+    }
+    .Hero-After {
+        .Hero-After-Background {
+            top: 0px;
+            left: 0px;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            background-color: #DAF2E2;
+            overflow: hidden;
+            z-index: 1;
+        }
+        .Hero-After-Image {
+            top: 0px;
+            left: 0px;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            z-index: 2;
+            overflow: hidden;
+            img {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                height: 100%;
+                overflow: hidden;
+                z-index: 2;
+                @media @360 {
+                    left: -380px;
+                }
+            }
+        }
+    }
+    .Hero-Before {
+        .Hero-Before-Background {
+            top: 0px;
+            left: 0px;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            background-repeat: repeat;
+            z-index: 4;
+            border-right: solid 3px white;
+        }
+        .Hero-Before-Image {
+            top: 0px;
+            left: 0px;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            z-index: 4;
+            overflow: hidden;
+            border-right: solid 3px white;
+            img {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                right: 0px;
+                overflow: hidden;
+                height: 100%;
+                z-index: 4;
+                @media @360 {
+                    left: -380px;
+                }
+            }
+        }
+    }
+}
+
+.Hero2-Wrapper {
+    height: 700px;
+    width: 100%;
+    background: linear-gradient(135deg, #ce2d4d 0%, #9382d0 25%, #6accff 50%, #9382d0 75%, #ce2d4d 100%);
+    .Hero2-Container {
+        width: 100%;
+    }
+}

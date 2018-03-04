@@ -1,0 +1,79 @@
+@import "../../css/Export.less";
+@keyframes MenuOpen {
+    0% {
+        width: 0px;
+        height: 16px;
+    }
+    55% {
+        width: 100%;
+        height: 16px;
+    }
+    100% {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@keyframes MenuClosed {
+    0% {
+        width: 100%;
+        height: 100%;
+    }
+    45% {
+        width: 100%;
+        height: 16px;
+    }
+    100% {
+        width: 0px;
+        height: 16px;
+    }
+}
+
+.Header-Wrapper {
+    position: fixed;
+    top: 0px;
+    height: 100%;
+    right: 0px;
+    z-index: 40;
+    .row;
+    width: auto;
+    transition: all .3s ease-in-out;
+    box-sizing: border-box;
+    .Header-Container {
+        border-radius: 5px;
+        right: -40px;
+        position: relative;
+        .col;
+        align-items: flex-start;
+        justify-content: space-between;
+        .MenuItem {
+            background-color: white;
+            margin: 10px 0px;
+            position: relative;
+            .paper;
+            padding: 5px 50px 5px 20px;
+            width: 100%;
+            text-align: left;
+            cursor: pointer;
+            transition: all .5s ease-in-out;
+            &.active {
+                left: 0px;
+            }
+            &.inactive {
+                left: 100px;
+            }
+        }
+    }
+}
+
+.Menu-Button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 50;
+    width: 70px;
+    height: 70px;
+    .col;
+    background-color: grey;
+    border-radius: 50%;
+}

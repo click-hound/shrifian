@@ -1,0 +1,161 @@
+.col {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.paper {
+  border: solid 1px #DDDDDD;
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+}
+.shadow {
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+.Auth-Form-Wrapper {
+  position: relative;
+  width: 90%;
+  max-width: 420px;
+  height: auto;
+  margin: 40px auto;
+  border: solid 1px #DDDDDD;
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.Auth-Form-Wrapper .Auth-Form-Header-Container {
+  height: 40px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+  padding: 24px 0px;
+  box-sizing: content-box;
+}
+.Auth-Form-Wrapper .Auth-Form-Body-Container {
+  max-width: 450px;
+  box-sizing: content-box;
+  padding: 0px 24px;
+}
+@media only screen and (max-width: 414px) {
+  .Auth-Form-Wrapper .Auth-Form-Body-Container {
+    padding: 0px 16px;
+  }
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container {
+  height: auto;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  padding: 24px 0px;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Submit-Row {
+  padding: 0px 0px 24px 0px;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Action-Container {
+  padding: 0px 24px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  max-width: 450px;
+  width: 100%;
+  box-sizing: content-box;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+@media only screen and (max-width: 414px) {
+  .Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Action-Container {
+    padding: 0px 16px;
+  }
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Action-Container.hidden {
+  display: none;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Action-Container .Auth-Form-Sign-Up-Container {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Action-Container .Auth-Form-Side-Links {
+  margin: 0px 5px;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Separator-Container {
+  padding: 15px 0px;
+  width: 100%;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Separator-Container .Auth-Form-Footer-Text-Container .Auth-Form-Footer-Separator-Text {
+  position: relative;
+  z-index: 3;
+  background-color: white;
+  padding: 0px 10px;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Separator-Container .Auth-Form-Footer-Text-Container::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  height: 1px;
+  width: 300px;
+  top: 50%;
+  left: 0px;
+  z-index: 1;
+  background-color: #EEEEEE;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Separator-Container .Auth-Form-Footer-Text-Container::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  height: 1px;
+  width: 300px;
+  top: 50%;
+  right: 0px;
+  z-index: 1;
+  background-color: #EEEEEE;
+}
+.Auth-Form-Wrapper .Auth-Form-Footer-Container .Auth-Form-Footer-Additional-Actions-Container {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}

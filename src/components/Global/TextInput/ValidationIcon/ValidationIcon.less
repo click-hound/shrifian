@@ -1,0 +1,104 @@
+@import "../../../../css/Export.less";
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-360deg);
+    }
+}
+
+.Validation-Icon-Wrapper {
+    pointer-events: none;
+    position: absolute;
+    height: 40px;
+    .col;
+    right: 0px;
+    width: 100%;
+    background-color: @textFieldBgColor;
+    border-radius: 5px;
+    .Validation-Icon-Background {
+        pointer-events: none;
+        position: absolute;
+        height: 40px;
+        .col;
+        right: 0px;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0%);
+        border-radius: 5px;
+        transition: all .5s;
+        &.success {
+            border: 1px solid rgba(0, 128, 0, 30%);
+            background-color: rgba(0, 128, 0, 10%);
+        }
+        &.error {
+            border: 1px solid rgba(255, 0, 0, 30%);
+            background-color: rgba(255, 0, 0, 10%);
+        }
+        &.plain {
+            border: 1px solid darken(@textFieldBgColor, 30%);
+            background-color: @textFieldBgColor;
+        }
+        &.forcePlain {
+            border: 1px solid darken(@textFieldBgColor, 30%);
+            background-color: @textFieldBgColor;
+        }
+    }
+    .Validation-Icon-Spinner {
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        width: 16px;
+        height: 16px;
+        color: darken(@textFieldIconColor, 50%);
+        opacity: 0;
+        transform: translateY(-50%);
+        transition: all .5s;
+        .Spinner-Wrapper {
+            height: 100%;
+            width: 100%;
+            animation: spin infinite 2s linear !important;
+        }
+        &.active {
+            opacity: 1;
+        }
+    }
+    .Validation-Icon-Success {
+        position: absolute;
+        right: 0px;
+        margin: 0px 10px;
+        width: 16px;
+        height: 16px;
+        color: green;
+        opacity: 0;
+        transition: all .5s;
+        &.active {
+            opacity: 1;
+        }
+        &.show {
+            opacity: 1 !important;
+        }
+        &.hide {
+            opacity: 0 !important;
+        }
+    }
+    .Validation-Icon-Error {
+        position: absolute;
+        right: 0px;
+        margin: 0px 10px;
+        width: 16px;
+        height: 16px;
+        color: red;
+        opacity: 0;
+        transition: all .5s;
+        &.active {
+            opacity: 1;
+        }
+        &.show {
+            opacity: 1 !important;
+        }
+        &.hide {
+            opacity: 0 !important;
+        }
+    }
+}

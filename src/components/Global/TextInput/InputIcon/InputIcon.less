@@ -1,0 +1,31 @@
+@import "../../../../css/Export.less";
+.Input-Icon-Wrapper {
+    pointer-events: none;
+    width: 450px;
+    height: 40px;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    .col;
+    .Input-Icon-Container {
+        position: absolute;
+        color: @textFieldPlaceholderTextColor;
+        font-weight: 500;
+        font-size: 16px;
+        left: 0px;
+        transform: translateY(-50%);
+        top: 50%;
+        transition: all .5s ease-in-out;
+        line-height: 0px;
+        white-space: nowrap;
+        z-index: 1;
+        &.active {
+            left: -450px;
+        }
+        #Icon {
+            margin: 0px 10px;
+        }
+    }
+}

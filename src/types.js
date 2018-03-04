@@ -1,0 +1,5 @@
+export const USER_LOGGED_IN = "USER_LOGGED_IN";
+export const USER_LOGGED_OUT = "USER_LOGGED_OUT";
+export const APP_LOADING = "APP_LOADING";
+export const APP_MENU_TOGGLE = "APP_MENU_TOGGLE";
+export const CHANGE_MENU_ITEM = "CHANGE_MENU_ITEM";

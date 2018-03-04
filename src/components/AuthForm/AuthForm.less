@@ -1,0 +1,92 @@
+@import "../../css/Export.less";
+.Auth-Form-Wrapper {
+    position: relative;
+    width: 90%;
+    max-width: 420px;
+    height: auto;
+    margin: 40px auto;
+    .paper;
+    overflow: hidden;
+    .Auth-Form-Header-Container {
+        height: 40px;
+        .col;
+        justify-content: flex-end;
+        padding: 24px 0px;
+        box-sizing: content-box;
+    }
+    .Auth-Form-Body-Container {
+        max-width: 450px;
+        box-sizing: content-box;
+        padding: 0px 24px;
+        @media @360 {
+            padding: 0px 16px;
+        }
+    }
+    .Auth-Form-Footer-Container {
+        height: auto;
+        .col;
+        padding: 24px 0px;
+        .Auth-Form-Submit-Row {
+            padding: 0px 0px 24px 0px;
+        }
+        .Auth-Form-Footer-Action-Container {
+            padding: 0px 24px;
+            @media @360 {
+                padding: 0px 16px;
+            }
+            &.hidden {
+                display: none;
+            }
+            .row;
+            max-width: 450px;
+            width: 100%;
+            box-sizing: content-box;
+            justify-content: space-around;
+            .Auth-Form-Sign-Up-Container {
+                .row;
+            }
+            .Auth-Form-Side-Links {
+                margin: 0px 5px;
+            }
+        }
+        .Auth-Form-Footer-Separator-Container {
+            padding: 15px 0px;
+            width: 100%;
+            position: relative;
+            .col;
+            .Auth-Form-Footer-Text-Container {
+                .Auth-Form-Footer-Separator-Text {
+                    position: relative;
+                    z-index: 3;
+                    background-color: @backgroundColor;
+                    padding: 0px 10px;
+                }
+                &::before {
+                    content: "";
+                    display: inline-block;
+                    position: absolute;
+                    height: 1px;
+                    width: 300px;
+                    top: 50%;
+                    left: 0px;
+                    z-index: 1;
+                    background-color: @separatorColor;
+                }
+                &::after {
+                    content: "";
+                    display: inline-block;
+                    position: absolute;
+                    height: 1px;
+                    width: 300px;
+                    top: 50%;
+                    right: 0px;
+                    z-index: 1;
+                    background-color: @separatorColor;
+                }
+            }
+        }
+        .Auth-Form-Footer-Additional-Actions-Container {
+            .row;
+        }
+    }
+}
